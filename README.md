@@ -1,4 +1,4 @@
-# Data-type-simulator
+# Data-type-handler
 
 Data type simulator for atomic types, registers and unions.
 
